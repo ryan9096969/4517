@@ -1,0 +1,107 @@
+/* Intro page CSS*/
+.title h4{
+    color: brown;
+    font-family:papyrus;
+    font-size: 300%;
+    text-align:center;
+    text-shadow: 2px 2px;
+}
+.body p{
+color :burlywood ;
+font-size: 200%; 
+text-align:left;
+}
+.body table{
+    table-layout: fixed;
+    word-break: normal;
+    width: 90%;
+    margin-left:auto ;
+    margin-right: auto;
+}
+.body td{
+    width: 50%;
+}
+.bar h2 {
+    text-align: center;    
+
+}
+.bar ul{
+    list-style-type: none;
+    background-color: burlywood;
+    overflow: hidden;  
+    margin-left: auto;
+    margin-right: auto;
+}
+.bar a{
+    color: crimson;
+    text-align: center;
+    padding:15px;
+    display: block;
+    text-decoration: none;
+ 
+}
+.bar li{   
+
+    float: left;
+}
+.reg p{
+margin-left: auto;
+margin-right: auto;
+width:30%;
+text-align: center;
+border: 2px solid;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 120%;
+color: brown;
+width: "100%";
+}
+
+.tabletitle h2{
+    text-align: center;
+    color: brown;
+}
+.Ok p{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 200%;
+    text-decoration: none;
+}
+.cola {
+    float: left;
+    width: 40%;
+   margin-top: 6px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 150%;
+}
+.colb {
+    float: left;
+    width: 60%; 
+    margin-top: 6px;
+}
+.Row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.Row {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width:30%;
+}
+.part2 {
+color :burlywood ;
+font-size: 200%; 
+text-align:left;
+width:90%;
+margin-left: auto;
+margin-right: auto;
+}
+.icon img{
+    width:20%;
+    height:20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
